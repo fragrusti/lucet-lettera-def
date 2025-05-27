@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lucet-lettera-def/precache-manifest.42a92e51f02dd13e14a16020d428d168.js"
+  "/lucet-lettera-def/precache-manifest.dfefcfbe763aa2f84e32badba15e8d46.js"
 );
 
 self.addEventListener('message', (event) => {
