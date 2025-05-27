@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/fragrusti/lucet-lettera-def/static/css/main.06198879.chunk.css",
-    "main.js": "/fragrusti/lucet-lettera-def/static/js/main.88d56b94.chunk.js",
-    "main.js.map": "/fragrusti/lucet-lettera-def/static/js/main.88d56b94.chunk.js.map",
-    "runtime~main.js": "/fragrusti/lucet-lettera-def/static/js/runtime~main.d661103d.js",
-    "runtime~main.js.map": "/fragrusti/lucet-lettera-def/static/js/runtime~main.d661103d.js.map",
-    "static/js/2.383b5087.chunk.js": "/fragrusti/lucet-lettera-def/static/js/2.383b5087.chunk.js",
-    "static/js/2.383b5087.chunk.js.map": "/fragrusti/lucet-lettera-def/static/js/2.383b5087.chunk.js.map",
-    "static/js/3.5d5b56ad.chunk.js": "/fragrusti/lucet-lettera-def/static/js/3.5d5b56ad.chunk.js",
-    "static/js/3.5d5b56ad.chunk.js.map": "/fragrusti/lucet-lettera-def/static/js/3.5d5b56ad.chunk.js.map",
-    "static/js/4.073f668c.chunk.js": "/fragrusti/lucet-lettera-def/static/js/4.073f668c.chunk.js",
-    "static/js/4.073f668c.chunk.js.map": "/fragrusti/lucet-lettera-def/static/js/4.073f668c.chunk.js.map",
-    "index.html": "/fragrusti/lucet-lettera-def/index.html",
-    "precache-manifest.5ff63d5c94287f889adb2b8d74355f66.js": "/fragrusti/lucet-lettera-def/precache-manifest.5ff63d5c94287f889adb2b8d74355f66.js",
-    "service-worker.js": "/fragrusti/lucet-lettera-def/service-worker.js",
-    "static/css/main.06198879.chunk.css.map": "/fragrusti/lucet-lettera-def/static/css/main.06198879.chunk.css.map"
+    "main.css": "/lucet-lettera-def/static/css/main.06198879.chunk.css",
+    "main.js": "/lucet-lettera-def/static/js/main.88d56b94.chunk.js",
+    "main.js.map": "/lucet-lettera-def/static/js/main.88d56b94.chunk.js.map",
+    "runtime~main.js": "/lucet-lettera-def/static/js/runtime~main.ecc43890.js",
+    "runtime~main.js.map": "/lucet-lettera-def/static/js/runtime~main.ecc43890.js.map",
+    "static/js/2.383b5087.chunk.js": "/lucet-lettera-def/static/js/2.383b5087.chunk.js",
+    "static/js/2.383b5087.chunk.js.map": "/lucet-lettera-def/static/js/2.383b5087.chunk.js.map",
+    "static/js/3.5d5b56ad.chunk.js": "/lucet-lettera-def/static/js/3.5d5b56ad.chunk.js",
+    "static/js/3.5d5b56ad.chunk.js.map": "/lucet-lettera-def/static/js/3.5d5b56ad.chunk.js.map",
+    "static/js/4.073f668c.chunk.js": "/lucet-lettera-def/static/js/4.073f668c.chunk.js",
+    "static/js/4.073f668c.chunk.js.map": "/lucet-lettera-def/static/js/4.073f668c.chunk.js.map",
+    "index.html": "/lucet-lettera-def/index.html",
+    "precache-manifest.a3529f4e2da01cd46f1a233efca62950.js": "/lucet-lettera-def/precache-manifest.a3529f4e2da01cd46f1a233efca62950.js",
+    "service-worker.js": "/lucet-lettera-def/service-worker.js",
+    "static/css/main.06198879.chunk.css.map": "/lucet-lettera-def/static/css/main.06198879.chunk.css.map"
   }
 }
